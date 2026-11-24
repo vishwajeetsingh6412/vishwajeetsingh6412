@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,4B0082,6A5ACD&height=220&section=header&text=Vishwajeet%20Singh&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Software%20Engineering&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,4B0082,6A5ACD&height=220&section=header&text=Vishwajeet%20Singh&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descAlignY=60&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Enthusiast;Data+Science+%7C+Analytics+%7C+Intelligent+Systems;Generative+AI+%7C+RAG+%7C+LLM+Applications;Python+%7C+SQL+%7C+Software+Engineering;Building+Data-Driven+%26+Intelligent+Solutions" alt="Typing SVG"/>
 
